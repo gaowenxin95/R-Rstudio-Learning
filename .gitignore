@@ -1,7 +1,4 @@
 .Rproj.user
 .Rhistory
 .RData
-_publish.R
-mybook
-_bookdown_files
-rsconnect
+.Ruserdata
